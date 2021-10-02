@@ -14,7 +14,7 @@ The game must be run as root on tty2 with 80 columns and 25 rows. The
 following steps describe how to launch the game.
 
 1. Compile with `make`.
-2. Switch to tty2 by pressing CTRL+ALT+F2 and login as root. You can
+2. Switch to tty2 by pressing CTRL+ALT+F2 and log in as root. You can
    switch back to the GUI with CTRL+ALT+F7.
 3. Set the required number of columns and rows:
 ```
