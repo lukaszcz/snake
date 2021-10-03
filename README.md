@@ -1,4 +1,4 @@
-SNAKE is a simple game which illustrates Linux assembly
+Snake is a simple game which illustrates Linux assembly
 programming. You move around a snake which grows every 10 moves.
 
 Requirements
